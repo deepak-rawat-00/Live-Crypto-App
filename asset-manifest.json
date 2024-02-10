@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Live-Crypto-App/static/css/main.883ad025.css",
+    "main.js": "/Live-Crypto-App/static/js/main.a0c11a3e.js",
+    "index.html": "/Live-Crypto-App/index.html",
+    "main.883ad025.css.map": "/Live-Crypto-App/static/css/main.883ad025.css.map",
+    "main.a0c11a3e.js.map": "/Live-Crypto-App/static/js/main.a0c11a3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.883ad025.css",
+    "static/js/main.a0c11a3e.js"
+  ]
+}
